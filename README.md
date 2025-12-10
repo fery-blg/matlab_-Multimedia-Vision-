@@ -35,9 +35,4 @@ Multimedia Vision est un projet MATLAB complet qui regroupe le **traitement du s
 - Génération automatique d’un rapport texte  
 - Sauvegarde de toutes les données et résultats  
 
----
 
-## Installation et utilisation
-1. Cloner le dépôt :
-```bash
-git clone https://github.com/ton-username/multimedia-vision.git
