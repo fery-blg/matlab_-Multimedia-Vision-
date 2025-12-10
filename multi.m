@@ -1,6 +1,5 @@
 %% =====================================================
 %% 🎮 MULTIMEDIA VISION - VERSION FINALE
-%% TOUT SUR UNE PAGE - PAS D'ERREURS
 %% =====================================================
 
 clear all; close all; clc;
